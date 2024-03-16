@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tushar-wagh-5b83b873" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tushar-wagh-5b83b873" target="blank"><img align="center" src="https://www.svgrepo.com/show/452051/linkedin.svg" alt="adityajaiswal7" height="30" width="40" /></a>
 <a href="https://www.instagram.com/the_techwizard_tushar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_gutu_twagh" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="it_gutu_twagh" height="30" width="40" /></a>
   
