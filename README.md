@@ -61,7 +61,7 @@
 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go-lang" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/373636/go-fuchsia.svg" alt="go-lang" width="40" height="40"/> </a>
 
 <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" alt="postgreSQL" width="40" height="40"/> </a>
 
