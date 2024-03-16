@@ -35,7 +35,7 @@
 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="python" width="70" height="50"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374016/python.svg" alt="python" width="40" height="40"/> </a>
 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 
@@ -45,9 +45,9 @@
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" alt="ansible" width="70" height="50"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353399/ansible.svg" alt="ansible" width="40" height="40"/> </a>
 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="70" height="50"/> </a>
+<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354447/terraform-icon.svg" alt="terraform" width="40" height="40"/> </a>
 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 
@@ -59,11 +59,11 @@
 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="jupyter" width="70" height="50"/> </a>
+<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353949/jupyter.svg" alt="jupyter" width="40" height="40"/> </a>
 
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go-lang" width="60" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go-lang" width="40" height="40"/> </a>
 
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" width="60" height="40"/> </a>
+<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" width="40" height="40"/> </a>
 
 </p>
 
