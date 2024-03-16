@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkwagh99&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkwagh99" /> </p>
 
-- 🔭 I’m currently working on [Corporate DevOps Security Tools | DevSecOps](https://www.youtube.com/watch?v=5CbQyB0dcCA&list=PLAdTNzDIZj_8Gotv6qZoyxOiwu0bdhW-E&pp=gAQBiAQB)
+- 🔭 I’m currently working on [**Corporate DevOps Security Tools | DevSecOps**]
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
@@ -69,11 +69,11 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharkwagh99&show_icons=true&locale=en&layout=compact" alt="tusharkwagh99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en" alt="jaiswaladi246" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharkwagh99&show_icons=true&locale=en" alt="tusharkwagh99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswaladi246&" alt="jaiswaladi246" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusharkwagh99&" alt="tusharkwagh99" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=tusharkwagh99&limit=5&theme=flat&combine_all_yearly_contributions=true)
