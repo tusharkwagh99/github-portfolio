@@ -63,7 +63,7 @@
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="go-lang" width="40" height="40"/> </a>
 
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgreSQL" width="40" height="40"/> </a>
+<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/svg/354200/postgresql" alt="postgreSQL" width="40" height="40"/> </a>
 
 </p>
 
