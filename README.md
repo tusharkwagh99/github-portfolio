@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharkwagh99&label=Profile%20views&color=0e75b6&style=flat" alt="tusharkwagh99" /> </p>
 
-- 🔭 I’m currently working on [**Corporate DevOps Security Tools | DevSecOps**]
+- 🔭 I’m currently working on **Corporate DevOps Security Tools | DevSecOps**
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
