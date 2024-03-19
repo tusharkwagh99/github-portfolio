@@ -1,3 +1,4 @@
+![logo](https://github.com/tusharkwagh99/Tushar-Wagh/blob/main/1.png)
 <h1 align="center">Hey Everyone 👋, I'm Tushar Wagh</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India. I work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@itguru.twagh99 </h3>
